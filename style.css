@@ -1,0 +1,33 @@
+
+body {
+	background-image: url("music.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+ 
+/* a {
+	opacity: 1;
+}
+a:hover {
+	opacity: 0.8;
+} */
+ 
+#searchForm {
+	text-align:center;
+	margin: 20px;
+}
+#searchForm span {
+	color:white;
+	padding-right: 10px;
+}
+
+#main{
+	display: flex;
+	flex-wrap:wrap;
+}
+img{
+	width: 100px;
+    height: 100px;
+}
